@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Suraj Tiwari 👋
 
-<!--
-**Suraj03-07/Suraj03-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI/ML Engineer | Final-Year B.Tech Student
 
-Here are some ideas to get you started:
+I'm passionate about building intelligent solutions and exploring how AI can solve real-world problems. I enjoy learning by building, experimenting with new technologies, and turning ideas into practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests include Machine Learning, Deep Learning, Generative AI, Computer Vision, and Natural Language Processing. I'm currently focused on strengthening my skills and building meaningful AI/ML projects.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, SQL, C++
+- **Data Science:** NumPy, Pandas, Scikit-learn
+- **Deep Learning:** TensorFlow, PyTorch
+- **Tools & Deployment:** Git, GitHub, FastAPI, Streamlit, Docker
+
+## 🧠 Areas of Interest
+
+- Machine Learning & Deep Learning
+- Generative AI & Large Language Models
+- Computer Vision & Natural Language Processing
+- Building and deploying practical AI applications
+
+## 🚀 Featured Project
+
+### [BreedNet — Dog Breed Classification](https://github.com/Suraj03-07/BreedNet)
+
+A deep learning project focused on dog breed classification. Explore the repository to learn more about the implementation, technologies, and approach.
+
+**Tech:** Python · TensorFlow · Deep Learning
+
+[View Project →](https://github.com/Suraj03-07/BreedNet)
+
+## 🎯 What I'm Working Towards
+
+- Building practical AI/ML projects
+- Improving my model development and deployment skills
+- Turning ideas into useful, working applications
+
+## 🤝 Let's Connect
+
+- **LinkedIn:** [Suraj Tiwari](https://www.linkedin.com/in/suraj-tiwari-1491a72a0)
+- **GitHub:** [@Suraj03-07](https://github.com/Suraj03-07)
+
+---
+
+*Learning continuously, building thoughtfully, and improving one project at a time.*
